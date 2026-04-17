@@ -160,11 +160,11 @@ const Index = () => {
       background: "bg-gradient-to-br from-orange-300 to-orange-500",
       icon: "🎤"
     },
-    // {
-    //   title: "College Festivals",
-    //   background: "bg-gradient-to-br from-yellow-400 to-yellow-600",
-    //   icon: "🏆"
-    // }
+    {
+      title: "College Festivals",
+      background: "bg-gradient-to-br from-yellow-400 to-yellow-600",
+      icon: "🏆"
+    }
   ];
 
   const stats = [
