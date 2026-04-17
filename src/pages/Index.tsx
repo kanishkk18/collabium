@@ -241,7 +241,7 @@ const Index = () => {
             {/* Right Content - Opportunity Cards Grid */}
             <div className="grid grid-cols-2 gap-4">
               
-                <Card className="bg-gradient-to-br  from-yellow-400 to-orange-500 rounded-xl text-white border-0">
+                {/* <Card className="bg-gradient-to-br  from-yellow-400 to-orange-500 rounded-xl text-white border-0">
                   <CardHeader className="pb-2">
                     <div className="flex items-center gap-2">
                       <Trophy className="h-5 w-5" />
@@ -252,7 +252,7 @@ const Index = () => {
                     <p className="text-xs opacity-90 mb-1">Gain</p>
                     <p className="text-xs opacity-90">Practical Experience</p>
                   </CardContent>
-                </Card>
+                </Card> */}
 
                 <Card className="bg-gradient-to-br from-blue-400 to-blue-600 rounded-xl text-white border-0">
                   <CardHeader className="pb-2">
@@ -295,7 +295,7 @@ const Index = () => {
                   </CardContent>
                 </Card>
 
-                <Card className="bg-gradient-to-br from-yellow-400 to-yellow-600 rounded-xl text-white border-0">
+                {/* <Card className="bg-gradient-to-br from-yellow-400 to-yellow-600 rounded-xl text-white border-0">
                   <CardHeader className="pb-2">
                     <div className="flex items-center gap-2">
                       <Trophy className="h-5 w-5" />
@@ -306,7 +306,7 @@ const Index = () => {
                     <p className="text-xs opacity-90 mb-1">Battle</p>
                     <p className="text-xs opacity-90">For Excellence</p>
                   </CardContent>
-                </Card>
+                </Card> */}
 
                <Card className="bg-gradient-to-br from-pink-400 to-pink-600 w-full rounded-xl text-white border-0">
                   <CardHeader className="pb-2">
