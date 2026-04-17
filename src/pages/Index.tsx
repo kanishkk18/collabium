@@ -212,12 +212,12 @@ const Index = () => {
             {/* Left Content */}
             <div>
               <h1 className="text-4xl md:text-6xl font-semibold text-gray-900 mb-6">
-                <span className="text-blue-600"> </span>Your Career
+                <span className="text-blue-600">unclock </span>Your Career
               </h1>
-              <p className="text-lg text-gray-600 font-normal mb-8 leading-relaxed">
+              {/* <p className="text-lg text-gray-600 font-normal mb-8 leading-relaxed">
                 Explore opportunities from across the globe to grow, showcase skills, <br/>
              
-              </p>
+              </p> */}
               
               {/* Profile Completion Card */}
               <div className="bg-white rounded-lg p-4 w-fit shadow-lg mb-8 border">
