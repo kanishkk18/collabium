@@ -160,11 +160,11 @@ const Index = () => {
       background: "bg-gradient-to-br from-orange-300 to-orange-500",
       icon: "🎤"
     },
-    {
-      title: "College Festivals",
-      background: "bg-gradient-to-br from-yellow-400 to-yellow-600",
-      icon: "🏆"
-    }
+    // {
+    //   title: "College Festivals",
+    //   background: "bg-gradient-to-br from-yellow-400 to-yellow-600",
+    //   icon: "🏆"
+    // }
   ];
 
   const stats = [
@@ -173,7 +173,7 @@ const Index = () => {
     { label: "Opportunities", value: "130K+", color: "text-purple-600" },
     { label: "Brands trust us", value: "800+", color: "text-orange-600" },
     { label: "Organisations", value: "42K+", color: "text-pink-600" },
-    { label: "Countries", value: "78+", color: "text-indigo-600" }
+    // { label: "Countries", value: "78+", color: "text-indigo-600" }
   ];
 
   const activityTabs = [
@@ -212,11 +212,11 @@ const Index = () => {
             {/* Left Content */}
             <div>
               <h1 className="text-4xl md:text-6xl font-semibold text-gray-900 mb-6">
-                <span className="text-blue-600">Unlock </span>Your Career
+                <span className="text-blue-600"> </span>Your Career
               </h1>
               <p className="text-lg text-gray-600 font-normal mb-8 leading-relaxed">
                 Explore opportunities from across the globe to grow, showcase skills, <br/>
-                gain CV points & get hired by your dream company.
+             
               </p>
               
               {/* Profile Completion Card */}
