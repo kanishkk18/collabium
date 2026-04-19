@@ -214,16 +214,16 @@ const Index = () => {
               <h1 className="text-4xl md:text-6xl font-semibold text-gray-900 mb-6">
                 <span className="text-blue-600">unclock </span>Your Career
               </h1>
-              {/* <p className="text-lg text-gray-600 font-normal mb-8 leading-relaxed">
+             <p className="text-lg text-gray-600 font-normal mb-8 leading-relaxed">
                 Explore opportunities from across the globe to grow, showcase skills, <br/>
              
-              </p> */}
+              </p>
               
               {/* Profile Completion Card */}
               <div className="bg-white rounded-lg p-4 w-fit shadow-lg mb-8 border">
                 <div className="flex items-start gap-4">
                  
-                  {/* <div className="flex-1">
+                   <div className="flex-1">
                     <h3 className="font-semibold text-gray-900 mb-2">
                       Get the best recommendations!
                     </h3>
@@ -233,7 +233,7 @@ const Index = () => {
                     <Button className="bg-blue-600 text-xs h-fit w-fit hover:bg-blue-700">
                       Complete my profile
                     </Button>
-                  </div> */}
+                  </div> 
                 </div>
               </div>
             </div>
@@ -241,7 +241,7 @@ const Index = () => {
             {/* Right Content - Opportunity Cards Grid */}
             <div className="grid grid-cols-2 gap-4">
               
-                {/* <Card className="bg-gradient-to-br  from-yellow-400 to-orange-500 rounded-xl text-white border-0">
+                 <Card className="bg-gradient-to-br  from-yellow-400 to-orange-500 rounded-xl text-white border-0">
                   <CardHeader className="pb-2">
                     <div className="flex items-center gap-2">
                       <Trophy className="h-5 w-5" />
@@ -252,9 +252,9 @@ const Index = () => {
                     <p className="text-xs opacity-90 mb-1">Gain</p>
                     <p className="text-xs opacity-90">Practical Experience</p>
                   </CardContent>
-                </Card> */}
+                </Card> 
 
-                {/* <Card className="bg-gradient-to-br from-blue-400 to-blue-600 rounded-xl text-white border-0">
+                 <Card className="bg-gradient-to-br from-blue-400 to-blue-600 rounded-xl text-white border-0">
                   <CardHeader className="pb-2">
                     <div className="flex items-center gap-2">
                       <Briefcase className="h-5 w-5" />
@@ -266,7 +266,7 @@ const Index = () => {
                     <p className="text-xs opacity-90">Diverse Careers</p>
                   </CardContent>
                 </Card>
-              */}
+            
 
              
                 <Card className="bg-gradient-to-br from-orange-400 to-pink-500 rounded-xl text-white border-0">
