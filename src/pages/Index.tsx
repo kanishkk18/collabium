@@ -254,7 +254,7 @@ const Index = () => {
                   </CardContent>
                 </Card> */}
 
-                <Card className="bg-gradient-to-br from-blue-400 to-blue-600 rounded-xl text-white border-0">
+                {/* <Card className="bg-gradient-to-br from-blue-400 to-blue-600 rounded-xl text-white border-0">
                   <CardHeader className="pb-2">
                     <div className="flex items-center gap-2">
                       <Briefcase className="h-5 w-5" />
@@ -266,7 +266,7 @@ const Index = () => {
                     <p className="text-xs opacity-90">Diverse Careers</p>
                   </CardContent>
                 </Card>
-             
+              */}
 
              
                 <Card className="bg-gradient-to-br from-orange-400 to-pink-500 rounded-xl text-white border-0">
