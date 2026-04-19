@@ -223,7 +223,7 @@ const Index = () => {
               <div className="bg-white rounded-lg p-4 w-fit shadow-lg mb-8 border">
                 <div className="flex items-start gap-4">
                  
-                  <div className="flex-1">
+                  {/* <div className="flex-1">
                     <h3 className="font-semibold text-gray-900 mb-2">
                       Get the best recommendations!
                     </h3>
@@ -233,7 +233,7 @@ const Index = () => {
                     <Button className="bg-blue-600 text-xs h-fit w-fit hover:bg-blue-700">
                       Complete my profile
                     </Button>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
